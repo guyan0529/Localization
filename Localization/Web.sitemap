@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" enableLocalization="true">
+    <siteMapNode url="Default.aspx" title="$resources:SiteMapLocalizations,HomePageTitle"  description="$resources:SiteMapLocalizations,HomePageDescription">
+		<siteMapNode url="Page1.aspx" title="$resources:SiteMapLocalizations,Page1Title" description="$resources:SiteMapLocalizations,Page1Des" />
+		<siteMapNode url="Page2.aspx" title="$resources:SiteMapLocalizations,Page2Title" description="$resources:SiteMapLocalizations,Page2Des" />
+	</siteMapNode>
+</siteMap>
